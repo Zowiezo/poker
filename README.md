@@ -9,4 +9,4 @@ $ node poker.js
 ### Installing of dependencies
 ```
 $ yarn install
-```# poker
+```
